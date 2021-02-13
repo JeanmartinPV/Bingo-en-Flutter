@@ -1,4 +1,4 @@
-# bingo_star_app
+# Carton de Bingo en flutter
 
 A new Flutter project.
 
