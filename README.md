@@ -1,6 +1,9 @@
 # Carton de Bingo en flutter
 
-A new Flutter project.
+Espero lo disfrutes y si hay mejoras no dudes en compartirla.
+
+![Bingo img](https://user-images.githubusercontent.com/42988089/107840784-b03f1680-6d83-11eb-9608-a76713c8f3da.jpg)
+
 
 ## Getting Started
 
